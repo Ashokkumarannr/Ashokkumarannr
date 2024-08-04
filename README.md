@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashok kumaran N.R</h1>
 <h3 align="center">A passionate UI & UX DESIGN from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/web-design-modern-web-gif-gif-15349911">
 
 -  I’m currently learning **Web developing**
 
